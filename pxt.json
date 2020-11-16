@@ -1,0 +1,22 @@
+{
+    "name": "Presentation salon 2020_Hommage",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "scrollbit": "github:pimoroni/pxt-scrollbit#0.0.6",
+        "pxt-max7219_8x8": "github:alankrantas/pxt-max7219_8x8#v0.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
